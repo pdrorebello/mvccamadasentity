@@ -1,0 +1,6 @@
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Model\bin\Debug\WebAppMVC.Model.dll
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Model\bin\Debug\WebAppMVC.Model.pdb
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Model\obj\Debug\WebAppMVC.Model.csprojAssemblyReference.cache
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Model\obj\Debug\WebAppMVC.Model.csproj.CoreCompileInputs.cache
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Model\obj\Debug\WebAppMVC.Model.dll
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Model\obj\Debug\WebAppMVC.Model.pdb

@@ -1,0 +1,25 @@
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\bin\Debug\WebAppMVC.Bll.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\bin\Debug\WebAppMVC.Bll.pdb
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\bin\Debug\WebAppMVC.DAL.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\bin\Debug\WebAppMVC.Entity.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\bin\Debug\WebAppMVC.DAL.pdb
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\bin\Debug\WebAppMVC.Entity.pdb
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.csprojAssemblyReference.cache
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.csproj.CoreCompileInputs.cache
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.csproj.CopyComplete
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.pdb
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\WebAppMVC.Bll.dll
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\WebAppMVC.Bll.pdb
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\WebAppMVC.DAL.dll
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\WebAppMVC.Model.dll
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\EntityFramework.dll
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\WebAppMVC.DAL.pdb
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\WebAppMVC.DAL.dll.config
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\WebAppMVC.Model.pdb
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\bin\Debug\EntityFramework.xml
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.csprojAssemblyReference.cache
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.csproj.CoreCompileInputs.cache
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.csproj.CopyComplete
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.dll
+C:\Cursos\MVC\MVC_Camadas - Copia\WebAppMVC.Bll\obj\Debug\WebAppMVC.Bll.pdb

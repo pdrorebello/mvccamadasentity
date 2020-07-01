@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FirstWebAppMVCModelStoreContainer" CdmEntityContainer="FirstWebAppMVCEntities">
+    <EntitySetMapping Name="Times">
+      <EntityTypeMapping TypeName="FirstWebAppMVCModel.Time">
+        <MappingFragment StoreEntitySet="Time">
+          <ScalarProperty Name="TimeID" ColumnName="TimeID" />
+          <ScalarProperty Name="Time1" ColumnName="Time" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Cores" ColumnName="Cores" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
